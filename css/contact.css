@@ -1,0 +1,73 @@
+.row-begin-coontact{
+	margin-top: -10px;
+	color: #ffffff;
+	height: 65vh;
+	background-position: center;
+	background-image: url("../assets/CONTACT_US/1-BANNER.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.contact-one{
+	width: 100%;
+	margin-top: 50px;
+	padding-left: 50px;
+}
+.form-control{
+	border-bottom: 1px solid #8c8c8c;
+    border-top: 0px;
+    border-left: 0px;
+    border-radius: 0px;
+    border-right: 0px;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    padding-top: 15px;
+}
+.form-group > label{
+	color: #8c8c8c;
+}
+.address-icons{
+	width: 30px;
+}
+.address-text{
+	font-size: 14px;
+	font-family: Catamaran-Medium;
+	margin-left: 20px;
+}
+.contact-info{
+	margin-bottom: 10px;
+}
+.phone-number{
+	padding: 10px;
+}
+#map{
+	margin-bottom: 30px;
+}
+.oglftl{
+	color: #f7a518;
+	font-size: 17px;
+	font-family: Catamaran-Bold;
+}
+.info{
+	font-family: Futura-Medium;
+    font-weight: 100;
+}
+.form-group > input::-webkit-input-placeholder, .form-group > input, .form-group > textarea::-webkit-input-placeholder, .form-group > textarea{ 
+     color: #000;
+    font-size: 15px;
+    font-family: Futura-Medium;
+    font-weight: 100;
+
+   }
+ .footer-input::-webkit-input-placeholder, .footer-input{
+ 	color: #fff;
+    font-size: 10px;
+    font-family: Futura-Medium;
+    font-weight: 100;
+ }
+.form-group > label{
+	font-family: Catamaran-Light;
+	margin-bottom: 20px;
+}
+.form-group > textarea{
+	width: 100%;
+}
